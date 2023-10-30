@@ -6,6 +6,7 @@
     ./programs
   ];
   
+  
   nixpkgs.config.allowUnfree = true; 
   home.username = "himazawa";
   home.homeDirectory = "/home/himazawa";
